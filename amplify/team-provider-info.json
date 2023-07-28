@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "fullstackapp1b9b2d385": {}
+      },
+      "api": {
+        "fullstackapp1": {}
+      },
+      "storage": {
+        "s3d12f33cb": {}
       }
     }
   }
